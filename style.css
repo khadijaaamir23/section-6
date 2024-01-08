@@ -1,0 +1,73 @@
+body{
+    background-image: url(https://scijinks.gov/resources/icons/blue-sky.png);
+    background-repeat: no-repeat;
+    background-size: 200%;
+
+}
+.main{
+    border: 2px solid white;
+    background-color: beige;
+    height: 330px;
+    width: 250px;
+    text-align: center;
+    margin-top: 80px;
+    margin-left: 50px;
+}
+
+.box{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 10px;
+    
+}
+.body{
+    line-height: 30px;
+   
+}
+.one{
+    background-image: url(https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png);
+    background-size: 15px;
+    background-repeat: no-repeat;
+    background-position: left center;
+    padding-left: 20px;
+    margin-top: 10px;
+    background-color: white;
+}
+.two{
+    background-image: url(https://static-00.iconduck.com/assets.00/profile-circle-icon-2048x2048-cqe5466q.png);
+    background-size: 15px;
+    background-repeat: no-repeat;
+    background-position: left center;
+    padding-left: 20px;
+    margin-top: 10px;
+    background-color: white;
+
+}
+.three{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/022/648/084/non_2x/email-icon-for-your-website-mobile-presentation-and-logo-design-free-vector.jpg);
+    background-size: 15px;
+    background-repeat: no-repeat;
+    background-position: left center;
+    padding-left: 20px;
+    margin-top: 10px;
+    background-color: white;
+
+}
+.four{
+    background-image: url(https://e7.pngegg.com/pngimages/778/12/png-clipart-computer-icons-skype-icon-design-change-password-logo-internet.png);
+    background-size: 15px;
+    background-repeat: no-repeat;
+    background-position: left center;
+    padding-left: 20px;
+    margin-top: 10px;
+    background-color: white;
+    
+}
+.five{
+    color: black;
+    background-color: grey;
+    font-weight: bold;
+    
+}
